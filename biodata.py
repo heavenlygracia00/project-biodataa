@@ -6,10 +6,10 @@ alamat = "yogyakarta"
 asal = "yogyakarta"
 kota = "yogyakarta"
 
-print("nama saya adalah", nama)
-print("saat ini saya berumur",umur,"tahun.")
-print("hobi saya adalah",hobi)
-print("tanggal lahir saya adalah", tanggal_lahir)
-print("alamat saya adalah",alamat)
-print("asal saya adalah", asal)
-print("kota saya adalah",kota)
+print("私の名前は",nama,"です")
+print("私は今",umur,"歳です")
+print("私の趣味は",hobi,"です")
+print("私の誕生日は",tanggal_lahir,"です")
+print("私の住所は",alamat,"です")
+print("私の出身は",asal,"です")
+print("私の出身は",kota,"です")
